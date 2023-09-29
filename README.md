@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kepra3
+- 👋 Hi, I’m Kat Prata
 - 👀 I’m interested in population genomics and photogrammetry, "reefscape genomics"
-- 🌱 I’m currently learning dispersal estimates and kinship
+- 🌱 I’m currently learning dispersal estimates and kinship analyses
 - 💞️ I’m looking to collaborate on pop gen workflows, obtaining ecologically meaningful metrics from photogrammetry of coral reefs, or programming/bioinfomatics teaching.
 - 📫 How to reach me k.prata@uq.edu.au
 
