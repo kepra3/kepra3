@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kat Prata
 - 👀 I’m interested in population genomics, dispersal, and demographic history inference
-- 🌱 I’m currently working on using ancestral recombination graphs to study drivers of adaptation and diversity in coral reefs and Antarctica
+- 🌱 I’m currently working on using ancestral recombination graphs to study drivers of adaptation and diversity in coral reefs and Southern Ocean benthos in Antarctica
 - 💞️ I’m looking to collaborate on pop gen studies or programming and bioinfomatics teaching.
 - 📫 How to reach me katharine.prata@jcu.edu.au
 
